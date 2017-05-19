@@ -1,5 +1,10 @@
 ## Лабораторна робота №8
 
+[![Travis-CI][travis-badge]][travis-builds]
+
+[travis-badge]: https://travis-ci.org/HelenKarpenko/lab8.svg?branch=master
+[travis-builds]: https://travis-ci.org/HelenKarpenko/lab8/builds
+
 ## HTTP сервер
 #### Завдання №1. Створення web-сервера
 
@@ -31,8 +36,3 @@
 Виконати коментування інтерфейсів модулів у форматі `Doxygen`.
 
 #### Завдання №3. Безперервна інтеграція (Continuous Integration)
-
-[![Travis-CI][travis-badge]][travis-builds]
-
-[travis-badge]: https://travis-ci.org/HelenKarpenko/lab8.svg?branch=master
-[travis-builds]: https://travis-ci.org/HelenKarpenko/lab8/builds

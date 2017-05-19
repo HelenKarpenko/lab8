@@ -78,6 +78,8 @@ cmake-build-debug/
 /out/
 /bin/
 /doc/
+/html/
+/latex/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
